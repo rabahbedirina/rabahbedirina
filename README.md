@@ -5,12 +5,10 @@
 <br>
 
 <div align="center">
-  <h1>Hi there, I'm Rabah Bedirina 👋</h1>
-  <h3>⚡ Instrumentation & Control Engineer | Open-Source Enthusiast</h3>
+  <h1>Hi there, I'm Rabah Bedirina</h1>
+  <h3>Instrumentation & Control System Engineer | Open-Source Enthusiast</h3>
   <p><em>From Algeria - Bridging the physical world of industrial systems with the digital universe of code.</em></p>
 </div>
-
----
 
 <div align="center">
   <p>
