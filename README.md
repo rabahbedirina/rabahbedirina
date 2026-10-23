@@ -41,18 +41,3 @@
   <img src="https://streak-stats.demolab.com?user=rabahbedirina&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" width="100%" style="max-width: 835px;" />
 </div>
 
-
-<div align="center">
-
-  <br>
-  <table width="100%" style="max-width: 835px; border: none; background: transparent;">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-stats-extended.vercel.app/api?username=rabahbedirina&show_icons=true&theme=highcontrast&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rabahbedirina&layout=compact&theme=highcontrast&hide_border=true&border_radius=15" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
