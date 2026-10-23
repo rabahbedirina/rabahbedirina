@@ -1,106 +1,58 @@
-# Hi there, I'm Rabah Bedirina - from Algerie👋
+<div align="center">
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Let's%20Make%20It%20Work!&style=flat&color=8A2BE2" alt="Star Badge"/>
+</div>
 
-##  I'm an Instrumentation and Control Engineer at <img  alt="Rabah" width="15px" src="https://sonatrach.com/img/header/sonatrach.png" /> [SONATRACH][sonatrach]
+<br>
 
-## I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
-
-#### Find out more about me & feel free to connect with me here::
-
-[<img align="left" alt="Rabah" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Rabah | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Rabah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Rabah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rabah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+<div align="center">
+  <h1>Hi there, I'm Rabah Bedirina 👋</h1>
+  <h3>⚡ Instrumentation & Control Engineer | Open-Source Enthusiast</h3>
+  <p><em>From Algeria - Bridging the physical world of industrial systems with the digital universe of code.</em></p>
+</div>
 
 ---
 
-### Languages and Tools:
+<div align="center">
+  <p>
+    I learned a huge amount from the open-source community. I truly believe that collaboration, 
+    curiosity, and knowledge sharing are the driving forces behind great engineering.
+  </p>
+</div>
 
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
-<img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
-</code>](https://www.latex-project.org/)
-[<code>
-<img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
-</code>](https://www.markdownguide.org/)
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
-<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
-[<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
-[<code>
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)
-[<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
+<br>
 
----
+<div align="center">
+  <img src="assets/codex.jpg" alt="Wallpaper" width="100%" style="max-width: 835px; border-radius: 16px; box-shadow: 0 10px 30px rgba(17, 17, 17, 0.4); border: 1px solid rgba(15, 15, 16, 0.3);" />
+</div>
 
-## 📝 Latest Blog Posts
+<br>
 
-These are my latest posts on [Medium](#) and [Dev.to](#):
-
-### Medium
-
-<!-- MEDIUM:START -->
-
-<!-- MEDIUM:END -->
-
-### Dev Community
-
-<!-- DEVTO:START -->
-
-<!-- DEVTO:END -->
-
----
-
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+<div align="center">
+  <br>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=bash,js,html,css,androidstudio,c,cs,discord,figma,git,github,ai,java,kotlin,linkedin,mysql,nodejs,ps,php,postman,pr,py,react,stackoverflow,twitter,visualstudio,vscode,codepen,blender,vue,wordpress" alt="Tech Stack Icons" width="100%" style="max-width: 835px;" />
+  </a>
+</div>
 
 
+<br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rabahbedirina&show_icons=true&theme=chartreuse-dark&icon_color=7fff00&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/top-langs">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabahbedirina&layout=compact&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rabahbedirina&repo=RabahBedirina.github.io&theme=chartreuse-dark" />
-</a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rabahbedirina&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" width="100%" style="max-width: 835px;" />
+</div>
 
----
 
-[website]: #
-[twitter]: https://www.twitter.com/rabahbedirina
-[facebook]: https://www.facebook.com/rabahbedirina
-[instagram]: https://www.instagram.com/rabah_bedirina
-[linkedin]: https://www.linkedin.com/in/rabahbedirina
-[sonatrach]:www.sonatrach.com
+<div align="center">
+
+  <br>
+  <table width="100%" style="max-width: 835px; border: none; background: transparent;">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-stats-extended.vercel.app/api?username=rabahbedirina&show_icons=true&theme=highcontrast&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rabahbedirina&layout=compact&theme=highcontrast&hide_border=true&border_radius=15" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
