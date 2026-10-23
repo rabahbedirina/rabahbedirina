@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Let's%20Make%20It%20Work!&style=flat&color=8A2BE2" alt="Star Badge"/>
-</div>
-
-<br>
-
-<div align="center">
   <h1>Hi there, I'm Rabah Bedirina</h1>
   <h3>Instrumentation & Control System Engineer | Open-Source Enthusiast</h3>
   <p><em>From Algeria - Bridging the physical world of industrial systems with the digital universe of code.</em></p>
